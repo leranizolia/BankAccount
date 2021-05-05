@@ -1,0 +1,4 @@
+/Users/a19082303/Projects/HelloWorld/HelloWorld/bin/Debug/net5.0/publish/HelloWorld.dll
+/Users/a19082303/Projects/HelloWorld/HelloWorld/bin/Debug/net5.0/publish/HelloWorld.deps.json
+/Users/a19082303/Projects/HelloWorld/HelloWorld/bin/Debug/net5.0/publish/HelloWorld.runtimeconfig.json
+/Users/a19082303/Projects/HelloWorld/HelloWorld/bin/Debug/net5.0/publish/HelloWorld.pdb
